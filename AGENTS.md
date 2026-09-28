@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the cooperativa's screen sketches as a client-side interactive prototype on `/` with example data; persistence and real membership require a separate backend decision.
