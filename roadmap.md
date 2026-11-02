@@ -1,3 +1,0 @@
-- [x] Interpret the two cooperative documents as the basis for the screens.
-- [x] Draw the main interactive screens: overview, requests, projects, commissions, and assembly.
-- [x] Verify desktop and mobile previews and repair any visible or runtime issues.
